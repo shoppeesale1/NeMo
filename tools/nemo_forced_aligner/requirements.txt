@@ -1,3 +1,4 @@
 nemo_toolkit[all]
 prettyprinter # for testing
 pytest # for testing
+wheel>=0.38.0 # not directly required, pinned by Snyk to avoid a vulnerability
